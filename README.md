@@ -4,7 +4,7 @@
 
 ## [😁CLICK TO PROCCESS](http://htmlpreview.github.io/?https://github.com/prabhasha2006/Online-Code-Editor/blob/main/editor.html)
 
-## [😁CLICK TO PROCCESS check](http://htmlpreview.github.io/?https://github.com/prabhasha2006/Online-Code-Editor/blob/main/online2.html)
+## [😁CLICK TO PROCCESS check](http://htmlpreview.github.io/?https://github.com/panuwa2006/Online-Code-Editor/blob/main/online2.html)
 
 > simple live code editor by K.Prabhasha
 
